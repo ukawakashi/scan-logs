@@ -1,0 +1,8 @@
+# JetBrain IDEs
+.idea
+
+# Node package
+node_modules
+
+# enviroment
+.env
